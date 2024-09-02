@@ -7,7 +7,7 @@ from urllib.parse import quote
 import re
 import json
 
-TOKEN: Final = "6837521529:AAFJqZl2TYgluimozBHu5XLWHoJlCD8lSo0"
+TOKEN: Final = "TOKEN"
 BOT_USERNAME: Final = "@Desparado_Bot"
 LYRICS_API_URL: Final = 'https://private-anon-43faa5c492-lyricsovh.apiary-proxy.com/v1/'
 
