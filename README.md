@@ -68,9 +68,6 @@ Contributions are welcome! If you'd like to contribute to the development of Lyr
 2. Make your changes in a separate branch.
 3. Submit a pull request with a clear description of your changes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ### Notes:
