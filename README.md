@@ -1,6 +1,3 @@
-Sure! Here's a simple README file for a Telegram bot that fetches song lyrics:
-
----
 
 # **LyricsBot - Telegram Bot to Fetch Song Lyrics**
 
@@ -61,12 +58,6 @@ If you wish to run your own instance of the bot, follow these steps:
 
 ## API Documentation
 The bot uses the [Lyrics.ovh API](https://lyricsovh.docs.apiary.io/) (or another lyrics API of your choice) to fetch song lyrics. You can switch the API based on availability or preferences.
-
-## Contribution
-Contributions are welcome! If you'd like to contribute to the development of LyricsBot, feel free to fork the repository and submit a pull request. Here's how you can contribute:
-1. Fork the repository.
-2. Make your changes in a separate branch.
-3. Submit a pull request with a clear description of your changes.
 
 ---
 
